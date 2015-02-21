@@ -1,0 +1,23 @@
+{
+  "name": "exiftool.js-dev-dependencies",
+  "version": "0.1.0",
+  "description": "Test resources that don't belong in the exiftool.js module in production.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattburns/exiftool.js-dev-dependencies.git"
+  },
+  "keywords": [
+    "exiftool",
+    "exiftool.js"
+  ],
+  "author": "Matt Burns <matt@mattburns.co.uk> (http://www.mattburns.co.uk/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattburns/exiftool.js-dev-dependencies/issues"
+  },
+  "homepage": "https://github.com/mattburns/exiftool.js-dev-dependencies"
+}
