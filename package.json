@@ -1,6 +1,6 @@
 {
   "name": "exiftool.js-dev-dependencies",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test resources that don't belong in the exiftool.js module in production.",
   "main": "index.js",
   "scripts": {
